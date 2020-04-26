@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "mer",
+      "salary": "500",
+      "departman": "pazarlama",
+      "id": 2
+    },
+    {
+      "name": "yiğit",
+      "salary": "2000",
+      "departman": "insan kaynakları",
+      "id": 3
+    },
+    {
+      "name": "nnnn",
+      "salary": "",
+      "departman": "",
+      "id": 6
+    }
+  ]
+}
